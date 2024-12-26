@@ -1,0 +1,17 @@
+.hero {
+  padding: 50px 0;
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
